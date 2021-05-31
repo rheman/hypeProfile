@@ -1,6 +1,5 @@
 {
     "name": "pessek/hypeprofile",
-    "version": "1.4.15",
     "type": "elgg-plugin",
     "description": "Extended profile functionalities for Elgg",
     "keywords": [
